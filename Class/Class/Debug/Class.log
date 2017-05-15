@@ -1,0 +1,5 @@
+﻿  Shape.cpp
+c:\users\dccif\source\repos\learningcplusplus\class\class\shape.cpp(19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+Shape.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Shape::Shape(void)" (??0Shape@@QAE@XZ)，该符号在函数 "public: __thiscall Cicle::Cicle(float)" (??0Cicle@@QAE@M@Z) 中被引用
+Shape.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Shape::~Shape(void)" (??1Shape@@QAE@XZ)，该符号在函数 "public: void * __thiscall Shape::`scalar deleting destructor'(unsigned int)" (??_GShape@@QAEPAXI@Z) 中被引用
+C:\Users\dccif\Source\Repos\LearningCplusplus\Class\Debug\Class.exe : fatal error LNK1120: 2 个无法解析的外部命令
