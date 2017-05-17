@@ -1,0 +1,5 @@
+﻿  OverrideShape.cpp
+c:\users\dccif\source\repos\learningcplusplus\overrideshape\overrideshape\overrideshape.cpp(19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\dccif\source\repos\learningcplusplus\overrideshape\overrideshape\overrideshape.cpp(20): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  OverrideShape.vcxproj -> C:\Users\dccif\Source\Repos\LearningCplusplus\OverrideShape\Debug\OverrideShape.exe
+  OverrideShape.vcxproj -> C:\Users\dccif\Source\Repos\LearningCplusplus\OverrideShape\Debug\OverrideShape.pdb (Partial PDB)
