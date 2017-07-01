@@ -1,2 +1,9 @@
-# LearningCplusplus
-Learning
+# LearningCplusplus  
+##  包括：
+1. C++中的类[class](https://github.com/dccif/LearningCplusplus/blob/master/Class/Class/Shape.cpp)
+2. 友元函数
+3. 函数重载
+4. [运算符重载](https://github.com/dccif/LearningCplusplus/blob/master/OverridePlus/OverridePlus/OverridePlus.cpp)
+5. [文本写入](https://github.com/dccif/LearningCplusplus/blob/master/IOStream/IOStream/IOSTREAM.cpp)  
+6. [动态二维矩阵](https://github.com/dccif/LearningCplusplus/blob/master/DynamicMatrix.cpp)
+7. [内存分派失败的异常处理](https://github.com/dccif/LearningCplusplus/blob/master/ExceptionHandling/ExceptionHandling/ExceptionHandling.cpp)
